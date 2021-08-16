@@ -1,0 +1,11 @@
+{
+  "name": "Yaud-Bot",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "https://www.instagram.com/yaud._",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "whatsapp-bot"
+  ]
+}
